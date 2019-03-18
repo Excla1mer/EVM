@@ -1,4 +1,4 @@
-#include "mySimpleComputer.h"
+/*#include "mySimpleComputer.h"
 
 int sc_commandDecode(int value, int *command, int *operand)
 {
@@ -21,3 +21,4 @@ int sc_commandDecode(int value, int *command, int *operand)
 		return -1;
 	return 0;
 }
+*/
