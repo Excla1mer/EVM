@@ -1,0 +1,1 @@
+echo -e "\E[H\E[J""\n\n\n\n""\E[10G""\E[31m""Sergey top""\E[6;0H""\E[47m""\E[32m""Dima top""\E[10;0H""\E[37m""\E[49m"
